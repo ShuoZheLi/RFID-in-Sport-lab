@@ -1,0 +1,2 @@
+Download SketchUp add the stl editor extension from extension warehouse.
+Click "file" in the menu and import the stl file.
